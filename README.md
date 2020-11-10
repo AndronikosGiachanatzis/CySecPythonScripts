@@ -1,5 +1,5 @@
 # CySecPythonScripts
-This repository contains some simple python scripts that I am buildidng to automate and facilitate common tasks related to Cyber Security operations.
+This repository contains some simple python scripts that I am building to automate and facilitate common tasks related to Cyber Security operations.
 
 The scripts inside the repository were built in order to facilitate some simple tasks that are often needed, such as MAC changer scripts, Network Scanner, ARP Spoofers ...
 
