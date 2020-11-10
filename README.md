@@ -5,4 +5,4 @@ The scripts inside the repository were built in order to facilitate some simple 
 
 They intend to mimic/copy parts of the operation of popular tools (such as nmap, netdiscover) but in a simple way.
 
-They were built while I was attending Cyber Security courses during my 3rd year in my university and especially python implementation Cyber Security.
+They were built while I was attending Cyber Security courses during my 3rd year in my university and especially pythoon implementations in Cyber Security
