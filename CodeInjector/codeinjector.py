@@ -37,7 +37,7 @@ def process_packet(packet):
             print("[+] Response")
             try:
                 print(scapy_packet.show())
-                load = str(load.decode()).replace("HAHAHAHA", 'peos') # str
+                load = str(load.decode()).replace("HAHAHAHA", 'ABC') # str
 
             except (UnicodeDecodeError):
                 pass
