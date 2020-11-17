@@ -43,7 +43,7 @@ def main():
     dictfile = open(dname)
     for line in dictfile.readlines():
         passwd = line.strip('\n')
-        t = Thread(target=extract(zfile, passwd), args=(zfile,passwd))
+        t = Thread(target=extract, args=(zfile,passwd))
         t.start()
 
 if __name__ == '__main__':
